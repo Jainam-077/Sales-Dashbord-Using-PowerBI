@@ -18,6 +18,4 @@ This project is perfect for showcasing data analysis, dashboard design, and busi
 ## 🛠 Tools & Technologies
 - **Power BI Desktop** for dashboard creation  
 - **Excel/CSV dataset** for sales data  
-- **DAX (Data Analysis Expressions)** for calculated measures & KPIs  
-
--
+- **DAX (Data Analysis Expressions)** for calculated measures & KPIs 
